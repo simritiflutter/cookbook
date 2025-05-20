@@ -11,7 +11,7 @@ The official documentation for Android development with Gradle is provided by Go
 
 - [Gradle build overview](https://developer.android.com/build/gradle-build-overview) - Understand how Gradle builds Android applications with Gradle using Android Gradle Plugin (AGP), key concepts, and the structure of a standard Android project.
   
-- [Android build management](https://developer.android.com/build) - Configure your Android builds for better packaging to test, build, sign, and distribute your app bundles and APKs.
+- [Android build management](https://developer.android.com/build) - Configure your Android builds for better packaging to test, build, sign, and distribute your app bundles and APKs. 
   
 - [Managing dependencies](https://developer.android.com/build/dependencies) - Configure remote repositories to add external binaries or other library modules into your build as dependencies.
   
@@ -110,7 +110,7 @@ To explore more optimization techniques and configure your builds for better per
 For further information, visit the **official**  [Optimizing Builds Guide](https://developer.android.com/build/optimize-your-build).
 
 ### **6. Extending AGP**
-You can extend the Android Gradle Plugin (AGP) by writing custom tasks and plugins to integrate new functionality into the existing build system. This allows for advanced customization and flexibility in your build processes.
+You can extend the Android Gradle Plugin (AGP) by writing custom tasks and plugins to integrate new functionality into the existing build system. This allows for advanced customization and flexibility in your build processes. https://flutternest.com/
 
 #### Example of a Custom Task:
 ```kotlin
